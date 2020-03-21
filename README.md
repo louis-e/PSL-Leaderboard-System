@@ -1,7 +1,7 @@
 # PSL-Leaderboard-System
 A simple and open source Leaderboard system written in PHP.
 
-IMPORTANT: PSL is not 100% secure. It can be manipulated by spying the network traffic or by decompiling your application. Use at your own risk.
+IMPORTANT: PSL is insecure. It can be manipulated by spying the network traffic or by decompiling your application. Use at your own risk.
 
 
 ### What can you do with PSL?
